@@ -6,7 +6,11 @@ function App() {
   return (
     <div className="App">
        <Demo />
+<<<<<<< Updated upstream
       <HorizontalLoginForm />
+=======
+      <SignupHorizontalLoginForm />
+>>>>>>> Stashed changes
     </div>
   );
 }
