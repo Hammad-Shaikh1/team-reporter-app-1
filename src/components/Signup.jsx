@@ -47,8 +47,4 @@ const HorizontalLoginForm = () => {
     };
     
 
-<<<<<<< Updated upstream
-    export default HorizontalLoginForm;
-=======
-    export default HorizontalLoginForm;
->>>>>>> Stashed changes
+export default HorizontalLoginForm;
