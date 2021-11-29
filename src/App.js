@@ -1,12 +1,12 @@
 import './App.css';
 import Demo, {Login }from './components/Login';
-import{ Signup }from './components/Signup'
+import HorizontalLoginForm from './components/Signup'
 
 function App() {
   return (
     <div className="App">
        <Demo />
-      <Signup />
+      <HorizontalLoginForm />
     </div>
   );
 }
